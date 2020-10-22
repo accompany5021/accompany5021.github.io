@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>逐梦客栈</title>
+  
+  <subtitle>一个专注技术的个人平台</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-21T19:53:36.688Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>杨通明</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java</title>
+    <link href="http://example.com/2020/10/22/java/"/>
+    <id>http://example.com/2020/10/22/java/</id>
+    <published>2020-10-21T19:53:02.000Z</published>
+    <updated>2020-10-21T19:53:36.688Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;必须知道的两大法则 &lt;/p&gt;
+&lt;h2 id=&quot;①STAR法则（Situation-Task-Action-Result）：&quot;&gt;&lt;a href=&quot;#①STAR法则（Situation-Task-Action-Result）：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2020/10/22/liang-da-fa-ze/"/>
+    <id>http://example.com/2020/10/22/liang-da-fa-ze/</id>
+    <published>2020-10-21T19:50:50.039Z</published>
+    <updated>2020-10-21T19:52:05.585Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;title: Hello World&lt;br&gt;必须知道的两大法则 &lt;/p&gt;
+&lt;h2 id=&quot;①STAR法则（Situation-Task-Action-Result）：&quot;&gt;&lt;a href=&quot;#①STAR法则（Situation-Task-Action-Result）：&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2020/10/22/hello-world/"/>
+    <id>http://example.com/2020/10/22/hello-world/</id>
+    <published>2020-10-21T16:08:27.201Z</published>
+    <updated>2020-10-21T16:08:27.201Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

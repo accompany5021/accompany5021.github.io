@@ -3,11 +3,11 @@
   <title>逐梦客栈</title>
   
   <subtitle>学海无涯</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://yang-tongming.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://yang-tongming.gitee.io/"/>
   <updated>2020-12-31T06:42:18.235Z</updated>
-  <id>http://example.com/</id>
+  <id>https://yang-tongming.gitee.io/</id>
   
   <author>
     <name>通明</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/3eeb.html"/>
-    <id>http://example.com/posts/3eeb.html</id>
+    <link href="https://yang-tongming.gitee.io/posts/3eeb.html"/>
+    <id>https://yang-tongming.gitee.io/posts/3eeb.html</id>
     <published>2020-12-31T04:50:17.632Z</published>
     <updated>2020-12-31T06:42:18.235Z</updated>
     
@@ -39,20 +39,20 @@
   
   <entry>
     <title>typora-vue-theme主题介绍</title>
-    <link href="http://example.com/posts/6461.html"/>
-    <id>http://example.com/posts/6461.html</id>
+    <link href="https://yang-tongming.gitee.io/posts/6461.html"/>
+    <id>https://yang-tongming.gitee.io/posts/6461.html</id>
     <published>2018-09-07T01:25:00.000Z</published>
     <updated>2020-12-31T08:20:09.565Z</updated>
     
     
     
     
-    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://yang-tongming.gitee.io/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
+    <category term="Typora" scheme="https://yang-tongming.gitee.io/tags/Typora/"/>
     
-    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://yang-tongming.gitee.io/tags/Markdown/"/>
     
   </entry>
   

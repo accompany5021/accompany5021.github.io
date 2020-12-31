@@ -531,7 +531,7 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://ytm1024.top/2020/12/31/shu-ju-jie-gou-yu-suan-fa-gai-nian/266e.html">http://ytm1024.top/2020/12/31/shu-ju-jie-gou-yu-suan-fa-gai-nian/266e.html</a>
+                    <a href="http://example.com/2020/12/31/shu-ju-jie-gou-yu-suan-fa-gai-nian/266e.html">http://example.com/2020/12/31/shu-ju-jie-gou-yu-suan-fa-gai-nian/266e.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -1597,27 +1597,6 @@ $(function () {
     <script src="/libs/instantpage/instantpage.js" type="module"></script>
     
 
-
-        <script src="//cdn.jsdelivr.net/npm/js-base64/base64.min.js"></script>
-        <script>
-        const hasAttr = (e,a) => a.some(_=> e.attr(_)!==undefined);
-        $('a').each(function() {
-          const $this = $(this);
-          if(hasAttr($this,["data-fancybox","ignore-external-link"])) return;
-          const href = $this.attr('href');
-          if (href && href.match('^((http|https|thunder|qqdl|ed2k|Flashget|qbrowser|ftp|rtsp|mms)://)')) {
-            const strs = href.split('/');
-            if (strs.length >= 3) {
-                const host = strs[2];
-                if (host !== 'do-main' || window.location.host) {
-                    $this.attr('href', '/go.html?u='+Base64.encode(href)+'').attr('rel', 'external nofollow noopener noreferrer');
-                    if (false) {
-                        $this.attr('target', '_blank');
-                    }
-                }
-            }
-          }
-        });
-        </script></body>
+</body>
 
 </html>
